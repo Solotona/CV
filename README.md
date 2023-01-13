@@ -1,16 +1,54 @@
-### Hi there 👋
 
-<!--
-**Solotona/solotona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="300"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<h1>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  I'm a Junior QA Engineer
+</h1>
+</div>
+
+
+# My CV 
+[Link to my CV](https://docs.google.com/document/d/179B9avmKXHhoN24HEL_N5tg2YIOzCQJifuJdAMLXhck/edit)
+
+
+# Testing Documentation
++ [x] [Checklists]()
++ [x] [Test-Suites and Test-Cases]()
++ [x] [Bug-Reports]()
++ [x] [SQL Queries]()
++ [x] [Postman Collections]()
+# Tools
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![CharlesProxy](https://camo.githubusercontent.com/75709f6e7701525adf356038ac038efc11e75681852f87eaaab93ca16ce35610/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436861726c657350726f78792d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d636861726c657370726f7879266c6f676f436f6c6f723d386363346437)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![DevTools](https://camo.githubusercontent.com/4b30119404617326ea1e1bc429da088f2d0acb4e49e11f87972e2487efb51dbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446576546f6f6c732d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c656368726f6d65266c6f676f436f6c6f723d323637346632)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+# Contact
+You can reach me on
+</div>
+<div id="badges">
+  <a href="https://t.me/solotona">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://wa.me/79265727501">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
+  <a href="https://linkedin.com/in/natalia-solozhentseva-b589b86a">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+  </a>
+  <a href="mailto:jiok.kogoo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+
