@@ -1,5 +1,4 @@
 
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="300"/>
 </div>
@@ -13,17 +12,17 @@
 </div>
 
 
-# My CV 
+## My CV 
 [Link to my CV](https://docs.google.com/document/d/179B9avmKXHhoN24HEL_N5tg2YIOzCQJifuJdAMLXhck/edit)
 
 
-# Testing Documentation
-+ [x] [Checklists]()
-+ [x] [Test-Suites and Test-Cases]()
-+ [x] [Bug-Reports]()
+## Testing Documentation
++ [x] [Checklists](https://docs.google.com/spreadsheets/d/1ZnMXNF5-LNZYCEdqOgtKyJg-iY_Cv8hebZJYTJ2xsQo/edit#gid=2006427015)
++ [x] [Test-Suites and Test-Cases](https://docs.google.com/spreadsheets/d/1MDiYPgMqswyzRTvIeTfMf3jRxu0xWTQ0L6KO-PU0Bj8/edit#gid=178401776)
++ [x] [Bug-Reports](https://jiokko.youtrack.cloud/issues)
 + [x] [SQL Queries]()
 + [x] [Postman Collections]()
-# Tools
+## Languages and Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![CharlesProxy](https://camo.githubusercontent.com/75709f6e7701525adf356038ac038efc11e75681852f87eaaab93ca16ce35610/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436861726c657350726f78792d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d636861726c657370726f7879266c6f676f436f6c6f723d386363346437)
@@ -33,11 +32,10 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+## Contacts
 
-# Contact
-You can reach me on
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://t.me/solotona">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
@@ -51,4 +49,3 @@ You can reach me on
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
-
