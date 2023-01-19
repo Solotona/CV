@@ -20,8 +20,8 @@
 + [x] [Checklists](https://docs.google.com/spreadsheets/d/1ZnMXNF5-LNZYCEdqOgtKyJg-iY_Cv8hebZJYTJ2xsQo/edit#gid=2006427015)
 + [x] [Test-Suites and Test-Cases](https://docs.google.com/spreadsheets/d/1MDiYPgMqswyzRTvIeTfMf3jRxu0xWTQ0L6KO-PU0Bj8/edit#gid=178401776)
 + [x] [Bug-Reports](https://jiokko.youtrack.cloud/issues)
-+ [x] [SQL Queries]()
-+ [x] [Postman Collections]()
++ [x] SQL Queries
++ [x] Postman Collections
 ## Languages and Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
