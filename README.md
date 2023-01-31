@@ -13,7 +13,7 @@
 
 
 ## My CV 
-[Link to my CV](https://docs.google.com/document/d/179B9avmKXHhoN24HEL_N5tg2YIOzCQJifuJdAMLXhck/edit)
+[Link to my CV](https://drive.google.com/file/d/16Ihz8VyOzPjVKTk8ROgCwf6cuGsAkt8b/view?usp=share_link)
 
 
 ## Testing Documentation
