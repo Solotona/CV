@@ -22,6 +22,7 @@
 + [x] [Bug-Reports](https://jiokko.youtrack.cloud/issues)
 + [x] SQL Queries
 + [x] Postman Collections
+
 ## Languages and Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
