@@ -43,7 +43,7 @@
   <a href="https://wa.me/79265727501">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
-  <a href="https://linkedin.com/in/natalia-solozhentseva-b589b86a">
+  <a href="https://www.linkedin.com/in/natalia-tokareva-033533271">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
   <a href="mailto:jiok.kogoo@gmail.com">
