@@ -7,7 +7,7 @@
 <h1>
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I'm a Junior QA Engineer
+  I'm a Junior QA Engineer. I live and work in Moscow
 </h1>
 </div>
 
